@@ -1,5 +1,5 @@
-## Simple KNN
-This is a KNN implementation in python.
+## KNN Algorithm
+This is a simple KNN implementation in python.
 
 ### Usage
 
